@@ -1,6 +1,6 @@
 {
-  "total_generated": 103,
-  "last_reciter_idx": 5,
+  "total_generated": 104,
+  "last_reciter_idx": 6,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1034,6 +1034,16 @@
       "duration": 55.7,
       "video_id": null,
       "date": "2026-10-30 06:55:36"
+    },
+    {
+      "surah": 82,
+      "surah_name": "الانفطار",
+      "start_ayah": 6,
+      "end_ayah": 18,
+      "reciter": "ماهر المعيقلي",
+      "duration": 61.1,
+      "video_id": null,
+      "date": "2026-10-30 12:16:33"
     }
   ]
 }

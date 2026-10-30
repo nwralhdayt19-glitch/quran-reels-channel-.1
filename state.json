@@ -1,6 +1,6 @@
 {
-  "total_generated": 102,
-  "last_reciter_idx": 4,
+  "total_generated": 103,
+  "last_reciter_idx": 5,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1024,6 +1024,16 @@
       "duration": 51.4,
       "video_id": null,
       "date": "2026-10-30 06:31:43"
+    },
+    {
+      "surah": 41,
+      "surah_name": "فصلت",
+      "start_ayah": 26,
+      "end_ayah": 28,
+      "reciter": "مشاري العفاسي",
+      "duration": 55.7,
+      "video_id": null,
+      "date": "2026-10-30 06:55:36"
     }
   ]
 }

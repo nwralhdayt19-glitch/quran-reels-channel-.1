@@ -1,6 +1,6 @@
 {
-  "total_generated": 101,
-  "last_reciter_idx": 3,
+  "total_generated": 102,
+  "last_reciter_idx": 4,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1014,6 +1014,16 @@
       "duration": 49.3,
       "video_id": null,
       "date": "2026-10-30 06:01:14"
+    },
+    {
+      "surah": 22,
+      "surah_name": "الحج",
+      "start_ayah": 13,
+      "end_ayah": 14,
+      "reciter": "محمود خليل الحصري",
+      "duration": 51.4,
+      "video_id": null,
+      "date": "2026-10-30 06:31:43"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "total_generated": 107,
-  "last_reciter_idx": 9,
+  "total_generated": 108,
+  "last_reciter_idx": 10,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1074,6 +1074,16 @@
       "duration": 55.2,
       "video_id": null,
       "date": "2026-10-31 06:20:08"
+    },
+    {
+      "surah": 86,
+      "surah_name": "الطارق",
+      "start_ayah": 1,
+      "end_ayah": 14,
+      "reciter": "ياسر الدوسري",
+      "duration": 60.9,
+      "video_id": null,
+      "date": "2026-10-31 12:09:26"
     }
   ]
 }

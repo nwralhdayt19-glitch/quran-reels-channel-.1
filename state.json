@@ -1,6 +1,6 @@
 {
-  "total_generated": 109,
-  "last_reciter_idx": 11,
+  "total_generated": 110,
+  "last_reciter_idx": 12,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1094,6 +1094,16 @@
       "duration": 60.1,
       "video_id": null,
       "date": "2026-10-31 17:51:15"
+    },
+    {
+      "surah": 34,
+      "surah_name": "سبأ",
+      "start_ayah": 44,
+      "end_ayah": 46,
+      "reciter": "أحمد العجمي",
+      "duration": 66.4,
+      "video_id": null,
+      "date": "2026-11-01 01:35:52"
     }
   ]
 }
